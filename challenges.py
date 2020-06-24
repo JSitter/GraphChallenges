@@ -5,7 +5,7 @@ def numIslands(gridMap):
     '''
     q = deque()
 
-
+# Examples
 map1 = [
     [1, 1, 1, 1, 0],
     [1, 1, 0, 1, 0],
